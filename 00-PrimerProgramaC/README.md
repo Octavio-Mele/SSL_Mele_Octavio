@@ -1,0 +1,1 @@
+Esta es la resolución del TP0, un programa en C.
